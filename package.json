@@ -1,8 +1,8 @@
 {
-  "name": "orchy-base-code7",
-  "version": "1.3.6",
+  "name": "orchy-database-code7",
+  "version": "2.0.0",
   "description": "Configures, sets up database models and implements CRUD methods.",
-  "author": "Davi Silva <davi.silva@code7.com>",
+  "author": "Cireneu Guilherme <cireneu.araujo@code7.com>",
   "source": "src/index.ts",
   "main": "./dist/src/index.js",
   "bin": "./dist/src/index.js",
@@ -14,9 +14,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/davi-code7/orchy-base"
+    "url": "https://github.com/cireneuguilhermeteixeiracode7/orchy-base"
   },
-  "homepage": "https://github.com/davi-code7/orchy-base/#readme",
+  "homepage": "https://github.com/cireneuguilhermeteixeiracode7/orchy-base/#readme",
   "publishConfig": {
     "access": "public"
   },
